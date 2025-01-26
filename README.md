@@ -58,7 +58,7 @@
 
 ## p15-I
 
-- Comando utilizado: cmp hello.txt hello_copy.txt
+- Comandos utilizados: cmp hello.txt hello_copy.txt
   e
   diff hello.txt hello_copy.txt
   Como não houve saída, significa que ambos são iguais.
@@ -74,3 +74,9 @@
 ## p18-B
 
 - Comando utilizado: ls -l
+
+## p19-B
+
+- Comandos utilizados: echo "Texto adicional" > restricted.txt
+  e
+  echo "Texto extra" >> restricted.txt
