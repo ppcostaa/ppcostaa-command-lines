@@ -66,3 +66,5 @@
 ## p16-B
 
 - Comando utilizado: cat hello.txt hello_copy.txt > 2_hellos.txt
+
+## p17-B
