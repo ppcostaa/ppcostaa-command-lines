@@ -211,3 +211,5 @@
 ## p49-A
 
 - Comando utilizado: touch supercalifragilisticexpialidocious.txt
+
+## p50-A
