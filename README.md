@@ -86,3 +86,5 @@
 - Comandos utilizados: chmod +x hello_executable
   e
   ./hello_executable
+
+## p21-B
