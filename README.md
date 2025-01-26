@@ -205,3 +205,5 @@
 - Comando utilizado: sed 's/,/|/g' people.csv > people_pipe.csv
 
 ## p48-A
+
+- Comando utilizado: find bunch_of_files/ -type f -exec md5sum {} + | grep "$(md5sum file001.rand | cut -d ' ' -f 1)"
