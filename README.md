@@ -128,3 +128,5 @@
 ## p29-B
 
 - Comando utilizado: head -n 25 people.csv
+
+## p30-B
