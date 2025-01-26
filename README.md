@@ -9,3 +9,5 @@
 - Comando utilizado: cd challenges
 
 ## p3-B
+
+- Comando utilizado: ls
