@@ -29,3 +29,5 @@
 - Comando utilizado: echo "Hello World"
 
 ## p8-B
+
+- Comando utilizado: echo "Hello World" > hello.txt
