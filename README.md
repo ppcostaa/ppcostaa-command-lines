@@ -104,3 +104,5 @@
 - Comandos utilizados: chmod +x redirect
   e
   ./redirect > output.txt
+
+## p24-B
