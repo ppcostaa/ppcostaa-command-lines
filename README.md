@@ -106,3 +106,5 @@
   ./redirect > output.txt
 
 ## p24-B
+
+- Comando utilizado: date
