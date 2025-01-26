@@ -25,3 +25,5 @@
 - Comando utilizado: rm -rf foo
 
 ## p7-B
+
+- Comando utilizado: echo "Hello World"
