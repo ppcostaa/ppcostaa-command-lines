@@ -168,3 +168,5 @@
 ## p39-A
 
 - Comando utilizado: tail -n +2 people.csv | cut -d ',' -f 2 | sort | uniq | wc -l
+
+## p40-A
