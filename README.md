@@ -118,3 +118,5 @@
 - Comando utilizado: nproc
 
 ## p27-B
+
+- Comando utilizado: uname -r
