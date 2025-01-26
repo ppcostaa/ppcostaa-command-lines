@@ -55,3 +55,10 @@
 ## p14-B
 
 - Comando utilizado: mv goodbye.txt hello_copy.txt
+
+## p15-I
+
+- Comando utilizado: cmp hello.txt hello_copy.txt
+  e
+  diff hello.txt hello_copy.txt
+  Como não houve saída, significa que ambos são iguais.
