@@ -187,3 +187,7 @@
 ## p43-I
 
 - Comando utilizado: find challenges -type f | wc -l
+
+## p44-I
+
+- Comando utilizado: find challenges -type d | wc -l
