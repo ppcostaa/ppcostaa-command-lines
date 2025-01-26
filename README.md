@@ -158,3 +158,5 @@
 - Comando utilizado: tac README.txt
 
 ## p37-I
+
+- Comando utilizado: cut -d ',' -f 2 people.csv
