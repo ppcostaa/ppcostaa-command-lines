@@ -176,3 +176,5 @@
 ## p41-A
 
 - Comando utilizado: time (tail -n +2 people.csv | cut -d ',' -f 2 | sort | uniq | wc -l)
+
+## p42-A
