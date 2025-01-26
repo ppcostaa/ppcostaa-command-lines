@@ -39,3 +39,7 @@
 ## p10-B
 
 - Comando utilizado: rm empty.txt
+
+## p11-I
+
+- Comando utilizado: > empty.txt
