@@ -183,3 +183,5 @@
 ## p42-A
 
 - Comando utilizado: grep -c "^Josiah," people.csv
+
+## p43-I
