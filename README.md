@@ -185,3 +185,5 @@
 - Comando utilizado: grep -c "^Josiah," people.csv
 
 ## p43-I
+
+- Comando utilizado: find challenges -type f | wc -l
