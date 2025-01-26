@@ -13,3 +13,5 @@
 - Comando utilizado: ls
 
 ## p4-B
+
+- Comando utilizado: mkdir foo
