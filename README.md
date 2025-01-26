@@ -7,3 +7,5 @@
 ## p2-B
 
 - Comando utilizado: cd challenges
+
+## p3-B
