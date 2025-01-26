@@ -120,3 +120,5 @@
 ## p27-B
 
 - Comando utilizado: uname -r
+
+## p28-B
