@@ -21,3 +21,5 @@
 - Comando utilizado: mkdir -p foo/bar/1/2/3
 
 ## p6-B
+
+- Comando utilizado: rm -rf foo
