@@ -53,3 +53,5 @@
 - Comando utilizado: cp hello.txt goodbye.txt
 
 ## p14-B
+
+- Comando utilizado: mv goodbye.txt hello_copy.txt
