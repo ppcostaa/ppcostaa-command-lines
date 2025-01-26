@@ -15,3 +15,7 @@
 ## p4-B
 
 - Comando utilizado: mkdir foo
+
+## p5-I
+
+- Comando utilizado: mkdir -p foo/bar/1/2/3
