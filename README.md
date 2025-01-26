@@ -134,3 +134,5 @@
 - Comando utilizado: tail -n 25 people.csv
 
 ## p31-I
+
+- Comando utilizado: diff greeting1.txt greeting2.txt
