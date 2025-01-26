@@ -49,3 +49,5 @@
 - Comando utilizado: echo "" > empty.txt
 
 ## p13-B
+
+- Comando utilizado: cp hello.txt goodbye.txt
