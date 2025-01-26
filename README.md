@@ -193,3 +193,5 @@
 - Comando utilizado: find challenges -type d | wc -l
 
 ## p45-I
+
+- Comando utilizado: find . -type f -name "_deleteme_" -exec rm {} \;
