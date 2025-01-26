@@ -31,3 +31,7 @@
 ## p8-B
 
 - Comando utilizado: echo "Hello World" > hello.txt
+
+## p9-B
+
+- Comando utilizado: touch empty.txt
