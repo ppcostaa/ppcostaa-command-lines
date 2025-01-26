@@ -148,3 +148,7 @@
 ## p34-I
 
 - Comando utilizado: dd if=/dev/urandom of=file_2MB.txt bs=1M count=2
+
+## p35-I
+
+- Comando utilizado: wc -l README.txt
