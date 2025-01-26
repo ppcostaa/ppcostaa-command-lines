@@ -162,3 +162,5 @@
 - Comando utilizado: cut -d ',' -f 2 people.csv
 
 ## p38-A
+
+- Comando utilizado: cut -d ',' -f 2 people.csv | sort | uniq | wc -l
