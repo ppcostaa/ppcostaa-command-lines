@@ -70,3 +70,5 @@
 ## p17-B
 
 - Comando utilizado: pwd
+
+## p18-B
