@@ -23,3 +23,5 @@
 ## p6-B
 
 - Comando utilizado: rm -rf foo
+
+## p7-B
