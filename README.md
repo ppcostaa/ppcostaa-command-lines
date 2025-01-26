@@ -203,3 +203,5 @@
 ## p47-A
 
 - Comando utilizado: sed 's/,/|/g' people.csv > people_pipe.csv
+
+## p48-A
