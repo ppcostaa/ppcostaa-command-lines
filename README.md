@@ -62,3 +62,7 @@
   e
   diff hello.txt hello_copy.txt
   Como não houve saída, significa que ambos são iguais.
+
+## p16-B
+
+- Comando utilizado: cat hello.txt hello_copy.txt > 2_hellos.txt
