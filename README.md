@@ -92,3 +92,5 @@
 - Comandos utilizados: chmod +x challenge_20
   e
   ./challenge_20
+
+## p22-B
