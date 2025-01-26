@@ -144,3 +144,7 @@
 ## p33-I
 
 - Comando utilizado: dd if=/dev/zero of=file_1MB.txt bs=1M count=1
+
+## p34-I
+
+- Comando utilizado: dd if=/dev/urandom of=file_2MB.txt bs=1M count=2
