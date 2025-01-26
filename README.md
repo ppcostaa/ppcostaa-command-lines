@@ -112,3 +112,7 @@
 ## p25-B
 
 - Comando utilizado: ps aux
+
+## p26-B
+
+- Comando utilizado: nproc
