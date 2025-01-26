@@ -110,3 +110,5 @@
 - Comando utilizado: date
 
 ## p25-B
+
+- Comando utilizado: ps aux
