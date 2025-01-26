@@ -47,3 +47,5 @@
 ## p12-I
 
 - Comando utilizado: echo "" > empty.txt
+
+## p13-B
