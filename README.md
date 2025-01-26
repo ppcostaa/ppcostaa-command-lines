@@ -27,3 +27,5 @@
 ## p7-B
 
 - Comando utilizado: echo "Hello World"
+
+## p8-B
