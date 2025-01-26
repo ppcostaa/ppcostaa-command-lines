@@ -74,3 +74,5 @@
 ## p18-B
 
 - Comando utilizado: ls -l
+
+## p19-B
