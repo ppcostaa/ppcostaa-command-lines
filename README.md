@@ -136,3 +136,7 @@
 ## p31-I
 
 - Comando utilizado: diff greeting1.txt greeting2.txt
+
+## p32-I
+
+- Comando utilizado: echo "Hello"; sleep 5; echo "world!"
