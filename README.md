@@ -132,3 +132,5 @@
 ## p30-B
 
 - Comando utilizado: tail -n 25 people.csv
+
+## p31-I
