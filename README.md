@@ -80,3 +80,5 @@
 - Comandos utilizados: echo "Texto adicional" > restricted.txt
   e
   echo "Texto extra" >> restricted.txt
+
+## p20-B
