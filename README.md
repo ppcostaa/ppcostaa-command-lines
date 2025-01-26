@@ -126,3 +126,5 @@
 - Comando utilizado: grep -r "You found the needle in the haystack!" bunch_of_files/
 
 ## p29-B
+
+- Comando utilizado: head -n 25 people.csv
