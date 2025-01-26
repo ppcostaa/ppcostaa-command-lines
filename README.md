@@ -170,3 +170,5 @@
 - Comando utilizado: tail -n +2 people.csv | cut -d ',' -f 2 | sort | uniq | wc -l
 
 ## p40-A
+
+- Comando utilizado: sed '1d' people.csv | cut -d ',' -f 2 | sort | uniq | wc -l
