@@ -209,3 +209,5 @@
 - Comando utilizado: find bunch_of_files/ -type f -exec md5sum {} + | grep "$(md5sum file001.rand | cut -d ' ' -f 1)"
 
 ## p49-A
+
+- Comando utilizado: touch supercalifragilisticexpialidocious.txt
