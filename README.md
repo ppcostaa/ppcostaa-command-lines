@@ -154,3 +154,5 @@
 - Comando utilizado: wc -l README.txt
 
 ## p36-B
+
+- Comando utilizado: tac README.txt
