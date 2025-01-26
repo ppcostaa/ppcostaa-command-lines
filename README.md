@@ -94,3 +94,7 @@
   ./challenge_20
 
 ## p22-B
+
+- Comandos utilizados: gcc compile_me.c -o compile_me
+  e
+  ./compile_me
