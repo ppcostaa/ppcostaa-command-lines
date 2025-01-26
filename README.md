@@ -98,3 +98,9 @@
 - Comandos utilizados: gcc compile_me.c -o compile_me
   e
   ./compile_me
+
+## p23-A
+
+- Comandos utilizados: chmod +x redirect
+  e
+  ./redirect > output.txt
