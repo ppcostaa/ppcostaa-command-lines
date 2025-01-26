@@ -191,3 +191,5 @@
 ## p44-I
 
 - Comando utilizado: find challenges -type d | wc -l
+
+## p45-I
