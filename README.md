@@ -116,3 +116,5 @@
 ## p26-B
 
 - Comando utilizado: nproc
+
+## p27-B
