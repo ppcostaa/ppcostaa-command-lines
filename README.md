@@ -86,3 +86,9 @@
 - Comandos utilizados: chmod +x hello_executable
   e
   ./hello_executable
+
+## p21-B
+
+- Comandos utilizados: chmod +x challenge_20
+  e
+  ./challenge_20
