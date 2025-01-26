@@ -142,3 +142,5 @@
 - Comando utilizado: echo "Hello"; sleep 5; echo "world!"
 
 ## p33-I
+
+- Comando utilizado: dd if=/dev/zero of=file_1MB.txt bs=1M count=1
