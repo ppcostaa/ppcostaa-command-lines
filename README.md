@@ -175,4 +175,7 @@
 
 ## p41-A
 
-- Comando utilizado: time (tail -n +2 people.csv | cut -d ',' -f 2 | sort | uniq | wc -l)
+- Comandos utilizados: time (tail -n +2 people.csv | cut -d ',' -f 2 | sort | uniq | wc -l)
+  e
+  time (sed '1d' people.csv | cut -d ',' -f 2 | sort | uniq | wc -l)
+  O primeiro é mais rápido.
