@@ -100,3 +100,7 @@
   ./compile_me
 
 ## p23-A
+
+- Comandos utilizados: chmod +x redirect
+  e
+  ./redirect > output.txt
