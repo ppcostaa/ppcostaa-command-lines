@@ -206,10 +206,14 @@
 
 ## p48-A
 
-- Comando utilizado: find bunch_of_files/ -type f -exec md5sum {} + | grep "$(md5sum file001.rand | cut -d ' ' -f 1)"
+- Comandos utilizados: find bunch_of_files/ -type f -exec md5sum {} + | grep "$(md5sum file001.rand | cut -d ' ' -f 1)"
+  e
+  rm supercalifragilisticexpialidocious.txt
 
 ## p49-A
 
 - Comando utilizado: touch supercalifragilisticexpialidocious.txt
 
 ## p50-A
+
+- Comando utilizado: for l in a b c; do for n in 1 2 3; do touch "$l-$n.txt"; done; done
