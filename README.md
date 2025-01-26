@@ -199,3 +199,7 @@
 ## p46-I
 
 - Comando utilizado: sed -i 's/You found the needle in the haystack!/The needle has been removed./g' bunch_of_files/file719.rand
+
+## p47-A
+
+- Comando utilizado: sed 's/,/|/g' people.csv > people_pipe.csv
