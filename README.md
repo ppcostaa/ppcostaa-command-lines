@@ -43,3 +43,7 @@
 ## p11-I
 
 - Comando utilizado: > empty.txt
+
+## p12-I
+
+- Comando utilizado: echo "" > empty.txt
